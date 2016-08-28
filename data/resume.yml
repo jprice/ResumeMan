@@ -14,15 +14,15 @@ info:
     name: Joshua Price
     # dob: 1980-01-01 # not mandatory
     shortdesc: Job Title
-    email: example@example.com
-    phone: (313) - 867-5309 # not mandatory
-    homepage: http://example.com/ # not mandatory
+    email: josh@joshprice.net
+    #phone: (313) - 867-5309 # not mandatory
+    homepage: http://www.jprice.io # not mandatory
     address:
-        street: 123 Fake Street
-        city: City
-        region: Region # not mandatory
-        postal_code: 12345 # not mandatory
-        country: Country # not mandatory
+        #street: 123 Fake Street
+        city: Decatur
+        region: Tennessee # not mandatory
+        #postal_code: 12345 # not mandatory
+        country: USA # not mandatory
     desc: |
         Progressively evolve cross-platform ideas before impactful infomediaries. Energistically visualize tactical initiatives before cross-media catalysts for change.
 
